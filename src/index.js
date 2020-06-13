@@ -49,7 +49,7 @@ fetch(breedUrl)
     })
 }
 
-//*** 
+//*** NEED TO DO - add list of dogs to dom
 function addDogBreed(dogPicUrl) {
     const container = document.querySelector('#dog-image-container');
     console.log("im here", typeof dogPicUrl)
